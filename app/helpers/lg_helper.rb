@@ -1,0 +1,2 @@
+module LgHelper
+end
